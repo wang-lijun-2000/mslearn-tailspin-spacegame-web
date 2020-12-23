@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/justinwang2000/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/wang-lijun-2000.mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/justinwang2000/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=feature%2Fhome-page-text)
 
 # Contributing
 
